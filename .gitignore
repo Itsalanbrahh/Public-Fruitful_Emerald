@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+.venv/
+venv/
+*.db
+*.log
+vendor/
+.robinhood_session
+*.db-wal
+*.db-shm
+
+# trade ledger — never published
+data/ledger.sql
